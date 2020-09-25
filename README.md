@@ -4,6 +4,3 @@ esx_menu_default Re-design by XI
 This is a esx_menu_default re-design
 
 Contact me on discord if you need help: XI#1909
-
-**Installation:
-**Replace esx_menu_default with your esx_menu_default
